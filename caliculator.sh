@@ -3,4 +3,7 @@
 #
 #
 # Addition functio
-x=a+b
+x=a+
+
+#subtraction
+x=a-b
