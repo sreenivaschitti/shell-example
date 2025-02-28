@@ -9,3 +9,4 @@ x=a+
 x=a-b
 
 #add division
+#add percentage
