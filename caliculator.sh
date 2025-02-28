@@ -10,3 +10,6 @@ x=a-b
 
 #add division
 #add percentage
+
+#
+#add multiplication
